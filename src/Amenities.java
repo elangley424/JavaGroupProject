@@ -18,4 +18,10 @@ public class Amenities {
     public ArrayList<String> getAmenities() {
         return selectedAmenities;
     }
+    
+    
+    public void thisMethod()
+    {
+    	
+    }
 }
